@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jo\u00E3o\\source\\repos\\NetLearn-Battle\\server\\",
+  "WorkspaceRootPath": "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{804FCA1E-9779-4BDF-B450-29F5F30A8497}|server\\server.csproj|c:\\users\\jo\u00E3o\\source\\repos\\netlearn-battle\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{804FCA1E-9779-4BDF-B450-29F5F30A8497}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3461765F-60A1-21BC-764E-FC799869FE2F}|server\\server.csproj|c:\\users\\zurc ocsav\\source\\repos\\netlearn-battle\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3461765F-60A1-21BC-764E-FC799869FE2F}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3461765F-60A1-21BC-764E-FC799869FE2F}|server\\server.csproj|c:\\users\\zurc ocsav\\source\\repos\\netlearn-battle\\server\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3461765F-60A1-21BC-764E-FC799869FE2F}|server\\server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server",
+              "DocumentMoniker": "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\server\\server\\server.csproj",
+              "RelativeDocumentMoniker": "server\\server.csproj",
+              "ToolTip": "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\server\\server\\server.csproj",
+              "RelativeToolTip": "server\\server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T21:06:55.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jo\u00E3o\\source\\repos\\NetLearn-Battle\\server\\server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\server\\server\\Program.cs",
               "RelativeDocumentMoniker": "server\\Program.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o\\source\\repos\\NetLearn-Battle\\server\\server\\Program.cs",
+              "ToolTip": "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\server\\server\\Program.cs",
               "RelativeToolTip": "server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T20:42:51.361Z",
               "EditorCaption": ""

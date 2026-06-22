@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\João\\source\\repos\\NetLearn-Battle\\netlearn\\netlearn.csproj": {}
+    "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\netlearn\\netlearn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\João\\source\\repos\\NetLearn-Battle\\netlearn\\netlearn.csproj": {
+    "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\netlearn\\netlearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João\\source\\repos\\NetLearn-Battle\\netlearn\\netlearn.csproj",
+        "projectUniqueName": "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\netlearn\\netlearn.csproj",
         "projectName": "netlearn",
-        "projectPath": "C:\\Users\\João\\source\\repos\\NetLearn-Battle\\netlearn\\netlearn.csproj",
-        "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João\\source\\repos\\NetLearn-Battle\\netlearn\\obj\\",
+        "projectPath": "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\netlearn\\netlearn.csproj",
+        "packagesPath": "C:\\Users\\Zurc Ocsav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zurc Ocsav\\source\\repos\\NetLearn-Battle\\netlearn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\João\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zurc Ocsav\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

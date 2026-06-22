@@ -1,0 +1,15 @@
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\bin\Debug\net10.0\server.exe
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\bin\Debug\net10.0\server.deps.json
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\bin\Debug\net10.0\server.dll
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\bin\Debug\net10.0\server.pdb
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\server.dll
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\server.pdb
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\Zurc Ocsav\source\repos\NetLearn-Battle\server\server\obj\Debug\net10.0\ref\server.dll
